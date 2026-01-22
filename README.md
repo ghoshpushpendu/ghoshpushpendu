@@ -203,13 +203,12 @@ Senior Full-Stack Engineer with **8+ years** of experience designing and scaling
 ## 📫 Let's Connect!
 
 <div align="center">
-  
-  **Open to exciting opportunities! ** 🚀
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ghoshpushpendu/)
-  [![Email](https://img.shields.io/badge/Email-contactpushpendu@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contactpushpendu@gmail. com)
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-+91_7047434141-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917047434141)
-  
+  <h3>Open to exciting opportunities! 🚀</h3>
+  <p>
+    <a href="https://www.linkedin.com/in/ghoshpushpendu/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+    <a href="mailto:contactpushpendu@gmail.com"><img src="https://img.shields.io/badge/Email-contactpushpendu@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="https://wa.me/917047434141"><img src="https://img.shields.io/badge/WhatsApp-+91_7047434141-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+  </p>
 </div>
 
 ---
