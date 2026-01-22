@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com? font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Pushpendu+Ghosh;Senior+Full-Stack+Engineer;Node.js+%7C+AWS+%7C+React.js+%7C+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Pushpendu+Ghosh;Senior+Full-Stack+Engineer;Node.js+%7C+AWS+%7C+React.js+%7C+AI" alt="Typing SVG" />
 </div>
 
 <h3 align="center">🚀 Building Scalable Systems | 8+ Years | Immediate Joiner</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ghoshpushpendu/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:contactpushpendu@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836? style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:contactpushpendu@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="tel:+917047434141"><img src="https://img.shields.io/badge/-Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 
@@ -42,7 +42,7 @@ Senior Full-Stack Engineer with **8+ years** of experience designing and scaling
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/-DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Redis-DC382D? style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
 ### Frontend
@@ -158,15 +158,15 @@ Senior Full-Stack Engineer with **8+ years** of experience designing and scaling
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ghoshpushpendu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/? username=ghoshpushpendu&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghoshpushpendu&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/? user=ghoshpushpendu&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghoshpushpendu&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/? username=ghoshpushpendu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ghoshpushpendu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
