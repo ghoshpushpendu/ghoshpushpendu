@@ -75,17 +75,17 @@ Senior Full-Stack Engineer with **8+ years** of experience designing and scaling
 
 ## 🏆 Career Highlights
 
-### 🚀 Senior Software Engineer — Apptware
+### 🚀 Senior Software Engineer — Apptware | May 2022 – Jan 2026
 - Led design of **enterprise-scale platforms** in FinTech & Healthcare  
 - Built **AWS-based microservices** handling high traffic  
 - Improved reliability and performance for mission-critical systems  
 
-### 🧠 Principal Software Engineer — Sama
+### 🧠 Principal Software Engineer — Sama | May 2021 – May 2022
 - Owned **core backend architecture** and performance tuning  
 - Delivered reusable platforms used across teams  
 - Mentored engineers and enforced clean architecture standards  
 
-### 🏥 Principal Software Engineer — MeFy Care
+### 🏥 Principal Software Engineer — MeFy Care | Apr 2017 – May 2021
 - Built **telehealth platforms** from scratch to production scale  
 - Designed **HIPAA-ready backends** with real-time communication  
 - Played a key role in scaling early-stage products  
@@ -135,8 +135,6 @@ Senior Full-Stack Engineer with **8+ years** of experience designing and scaling
       </ul>
     </td>
   </tr>
-</table>
-
   <tr>
     <td width="50%">
       <h4>🔷 MeFy Care</h4>
@@ -152,6 +150,7 @@ Senior Full-Stack Engineer with **8+ years** of experience designing and scaling
       <p></p>
     </td>
   </tr>
+</table>
 
 ---
 
