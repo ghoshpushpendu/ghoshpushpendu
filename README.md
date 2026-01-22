@@ -91,7 +91,6 @@ Senior Full-Stack Engineer with **8+ years** of experience designing and scaling
 - Played a key role in scaling early-stage products  
 
 ---
-```
 
 ### 🌟 Notable Projects
 
