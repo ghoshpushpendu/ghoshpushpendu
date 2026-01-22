@@ -137,6 +137,22 @@ Senior Full-Stack Engineer with **8+ years** of experience designing and scaling
   </tr>
 </table>
 
+  <tr>
+    <td width="50%">
+      <h4>🔷 MeFy Care</h4>
+      <p>Telehealth & remote patient monitoring platform</p>
+      <ul>
+        <li>🏥 HIPAA-ready backend</li>
+        <li>💬 Real-time video & chat</li>
+        <li>📈 Scaled to production with security & compliance</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h4>🔷 —</h4>
+      <p></p>
+    </td>
+  </tr>
+
 ---
 
 ## 📊 GitHub Statistics
