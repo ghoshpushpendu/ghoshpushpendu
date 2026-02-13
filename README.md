@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Pushpendu+Ghosh;Senior+Full-Stack+Engineer;Node.js+%7C+AWS+%7C+React.js+%7C+AI" alt="Typing SVG" />
 </div>
 
-<h3 align="center">🚀 Building Scalable Systems | 8+ Years | Immediate Joiner</h3>
+<h3 align="center">🚀 Building Scalable Systems | 9+ Years | Immediate Joiner</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ghoshpushpendu/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
